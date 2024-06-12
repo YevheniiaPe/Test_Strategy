@@ -85,5 +85,9 @@ Includes risk mitigation strategies and a contingency plan.
 Includes review by system administration, project management, development, and the business group.
 Emphasises the importance of documenting reviews and updates as the test process improves.
 
+### :golf: The result:
+Test strategy document (sample template) was created 
+
+<img src="Screens/Screenshot_Test_Strategy_2.jpg" />  
 
 
