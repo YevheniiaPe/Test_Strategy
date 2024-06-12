@@ -3,6 +3,10 @@ Test strategy document in software testing (sample template)
 
 ## Don't forget to give a :star: to make the project popular :) 
 
+## :question: The task and what needs to be done?
+- Write a Test Strategy document  for any project. 
+- Make it in an Excel spreadsheet or .pdf format.
+
 ## :boom: What is a Test Strategy
 ### A test strategy 
 is a set of basic principles that define test development and regulate how the software testing process will be carried out. The goal of a test strategy is to provide a systematic approach to the testing process to ensure quality, traceability, reliability, and better planning.
