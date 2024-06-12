@@ -1,17 +1,19 @@
 # Test Strategy
 Test strategy document in software testing (sample template)
 
-## What is a Test Strategy
+## Don't forget to give a :star: to make the project popular :) 
+
+## :boom: What is a Test Strategy
 ### A test strategy 
 is a set of basic principles that define test development and regulate how the software testing process will be carried out. The goal of a test strategy is to provide a systematic approach to the testing process to ensure quality, traceability, reliability, and better planning.
 
-## What is a test strategy document?
+## :boom: What is a test strategy document?
 ### A test strategy document 
 is a well-described software testing document that clearly defines the exact software testing approach and goals for testing an application. A test document is an important document for quality assurance teams, created based on actual business requirements, that guides the entire team on the software testing approach and objectives for each activity in the software testing process.
 
 The test strategy document answers all the questions, such as what you want to do, how you are going to achieve it, etc. Writing an effective strategy document is a skill that a tester develops with experience. The test strategy plan should be communicated to the entire team so that the team is aligned on the approach and responsibilities.
 
-## How to prepare a good test strategy document
+## :bulb: How to prepare a good test strategy document
 Every organisation has its own unique priority and set of rules for software development, so don't copy any organisation blindly. Always make sure that their document is compatible and adds value to your software development before proceeding to wing the template.
 
 ## Testing strategy at STLC
