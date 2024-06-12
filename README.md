@@ -15,7 +15,7 @@ The test strategy document answers all the questions, such as what you want to d
 Every organisation has its own unique priority and set of rules for software development, so don't copy any organisation blindly. Always make sure that their document is compatible and adds value to your software development before proceeding to wing the template.
 
 ## Testing strategy at STLC
-<img src="Screens/Screenshot_Test_Strategy.jpg" /> 
+<img src="Screens/Screen_Test_Strategy.jpg" /> 
 
 ### Step 1) Scope of implementation
 It defines such parameters as:
